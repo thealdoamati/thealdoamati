@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aldo Amati</h1>
 
 <p align="center">
-AI Product Builder | Product Developer | 2x Founder
+AI Product Builder | Product Developer | Product Manager | 2x Founder
 </p>
 
 ---
